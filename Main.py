@@ -24,5 +24,3 @@ for i in range(finalcount):
     print('*', end=" ")
 
  print('')
-
-
