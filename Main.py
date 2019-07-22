@@ -21,4 +21,6 @@ print(finalcount)
 finalfinal = str(finalcount)
 for i in range(finalcount):
     print('*', end=" ")
-#  print('')
+
+ print('')
+
