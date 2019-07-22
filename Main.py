@@ -19,8 +19,10 @@ print(finalcount)
 # printingstar = line-3
 
 finalfinal = str(finalcount)
+
 for i in range(finalcount):
     print('*', end=" ")
 
  print('')
+
 
